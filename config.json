@@ -1,0 +1,15 @@
+{
+  "ownerNumber": ["62881038186826@s.whatsapp.net"],
+  "ownerName": "Kadek Ganz",
+  "BotName": "Kadek Botz",
+  "Footer": "By Kadek Official",
+  "email": "lolbotanj@gmail.com",
+  "website": "https://linktr.ee/KadekBotz",
+  "region": "indonesia",
+  "pathimg": "./media/neobot.jpg",
+  "limitCount": 40,
+  "gcount": {
+	"prem": 9999,
+	"user": 30
+  }
+}
